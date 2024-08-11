@@ -39,6 +39,7 @@ charset-normalizer==3.3.0
 chroma-hnswlib==0.7.3
 chromadb==0.4.24
 clevercsv==0.8.2
+click==7.1.2
 cohere==5.6.2
 colorama==0.4.6
 coloredlogs==15.0.1
@@ -267,6 +268,7 @@ peewee==3.17.6
 pgvector==0.2.5
 pillow==10.4.0
 pinecone-client==3.2.2
+pip==24.2
 platformdirs==4.2.2
 pluggy==1.5.0
 portalocker==2.10.1
@@ -291,8 +293,8 @@ pyautogen==0.2.33
 pycparser==2.22
 pycryptodome==3.20.0
 pydantic==2.8.2
-pydantic-settings==2.4.0
 pydantic_core==2.20.1
+pydantic-settings==2.4.0
 Pygments==2.16.1
 pylance==0.9.18
 pymilvus==2.4.4
@@ -317,6 +319,7 @@ python-multipart==0.0.7
 python-pptx==0.6.23
 pytube==15.0.0
 pytz==2020.1
+pywin32==306
 PyYAML==6.0.1
 qdrant-client==1.10.1
 qianfan==0.3.5
@@ -343,6 +346,7 @@ selenium==4.23.1
 semver==3.0.2
 sentence-transformers==3.0.1
 sentry-sdk==2.12.0
+setuptools==72.1.0
 shapely==2.0.5
 shellingham==1.5.4
 six==1.15.0
@@ -366,6 +370,7 @@ tensorboard==2.13.0
 tensorboard-data-server==0.7.2
 tensorflow==2.13.0
 tensorflow-estimator==2.13.0
+tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
 threadpoolctl==3.2.0
@@ -376,6 +381,8 @@ tkinterdnd2==0.3.0
 tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
 tqdm==4.66.5
 transformers==4.43.3
 trio==0.26.0
@@ -383,8 +390,8 @@ trio-websocket==0.11.1
 typer==0.12.3
 types-cachetools==5.4.0.20240717
 types-requests==2.32.0.20240712
-typing-inspect==0.9.0
 typing_extensions==4.12.2
+typing-inspect==0.9.0
 tzdata==2024.1
 ujson==5.10.0
 uncurl==0.0.11
@@ -403,6 +410,7 @@ webencodings==0.5.1
 websocket-client==1.8.0
 websockets==12.0
 Werkzeug==1.0.1
+wheel==0.41.2
 wikipedia==1.4.0
 win32-setctime==1.1.0
 wolframalpha==5.1.3
