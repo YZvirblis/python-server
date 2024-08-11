@@ -377,7 +377,6 @@ tkinterdnd2==0.3.0
 tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
-torchvision==0.16.0+cu118
 tqdm==4.66.5
 transformers==4.43.3
 trio==0.26.0
